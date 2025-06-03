@@ -3,7 +3,7 @@
 Este é o servidor (back-end) do projeto Trinity E-commerce, uma plataforma de compras online de jogos de cartas e tabuleiro.
 
 ## Tecnologias Utilizadas
-- teste
+
 - Spring Boot 3.4.4
 - Spring Data JPA
 - Spring Security
